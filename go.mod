@@ -1,3 +1,4 @@
-module github.com/armvalera/my-grpc-project
+module github.com/armvalera/protos
+
 
 go 1.24.4
